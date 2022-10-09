@@ -1,0 +1,423 @@
+Respondent ID,Gender,Age Range (Years),Domicile,Marital Status,Education,Occupation,Spending in a year,Vehicle Purchase Price ,Vehicle Model,Battery Charging Time,Driving Range 
+Respondent 1,Male,25-40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 2,Male,25-40  ,West Java,Unmarried,High School,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 3,Female,25-40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 4,Male,25-40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 5,Female,25-40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 6,Female,25-40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 7,Female,25-40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,8 hours,350 Km
+Respondent 8,Male,above 40  ,West Java,Unmarried,High School,Student,250-300 M IDR  ,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 9,Male,above 40  ,West Java,Unmarried,High School,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 10,Male,above 40  ,West Java,Unmarried,High School,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 11,Male,above 40  ,West Java,Unmarried,High School,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 12,Male,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 13,Male,25-40  ,Sumatera,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 14,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 15,Male,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 16,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 17,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 18,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 19,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 20,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 21,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 22,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 23,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,250-300 M IDR  ,300-400 M IDR  ,SUV,8 hours,350 Km
+Respondent 24,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 25,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 26,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 27,Male,above 40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 28,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 29,Male,above 40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 30,Male,above 40  ,Jakarta surround area,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 31,Female,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 32,Male,above 40  ,Jakarta surround area,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 33,Male,above 40  ,Jakarta surround area,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 34,Male,above 40  ,West Java,Married,Bachelor,Private Employee,250-300 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 35,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 36,Male,25-40  ,West Java,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 37,Female,above 40  ,Jakarta surround area,Married,Bachelor,Government Employees,200-250 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 38,Male,25-40  ,West Java,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 39,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 40,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 41,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 42,Male,25-40  ,Jakarta surround area,Married,Bachelor,Housewife,250-300 M IDR  ,400-500 M IDR  ,City Car,5 hours,350 Km
+Respondent 43,Male,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,250-300 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 44,Male,25-40  ,West Java,Unmarried,Bachelor,Government Employees,200-250 M IDR  ,above 500 M IDR  ,MPV,3 hours,300 Km
+Respondent 45,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 46,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 47,Male,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 48,Male,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,250-300 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 49,Male,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,200-250 M IDR  ,above 500 M IDR  ,MPV,5 hours,350 Km
+Respondent 50,Male,above 40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 51,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,250-300 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 52,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,250-300 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 53,Male,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,MPV,5 hours,300 Km
+Respondent 54,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 55,Female,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 56,Male,25-40  ,Jakarta surround area,Married,Bachelor,Housewife,200-250 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 57,Male,25-40  ,Jakarta surround area,Married,Bachelor,Housewife,above 350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 58,Male,above 40  ,West Java,Married,Bachelor,Private Employee,250-300 M IDR  ,400-500 M IDR  ,MPV,5 hours,250 Km
+Respondent 59,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 60,Male,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 61,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 62,Female,25-40  ,West Java,Married,Bachelor,Housewife,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 63,Female,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 64,Male,above 40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 65,Female,above 40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 66,Female,above 40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 67,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 68,Male,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 69,Female,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 70,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 71,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 72,Male,above 40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 73,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,250 Km
+Respondent 74,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,300 Km
+Respondent 75,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 76,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 77,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,300 Km
+Respondent 78,Male,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 79,Male,25-40  ,Borneo,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,SUV,5 hours,350 Km
+Respondent 80,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 81,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 82,Male,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 83,Female,18-24  ,Borneo,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 84,Female,25-40  ,Sumatera,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 85,Male,25-40  ,Borneo,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 86,Female,25-40  ,Sumatera,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 87,Female,25-40  ,Sumatera,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 88,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 89,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 90,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,8 hours,350 Km
+Respondent 91,Male,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 92,Male,above 40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 93,Male,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 94,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 95,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 96,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 97,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 98,Male,above 40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 99,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 100,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 101,Male,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 102,Male,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 103,Male,25-40  ,East Indonesia,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 104,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 105,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 106,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 107,Male,25-40  ,West Java,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 108,Female,25-40  ,West Java,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 109,Male,25-40  ,West Java,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 110,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,300 Km
+Respondent 111,Female,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 112,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 113,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 114,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 115,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 116,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 117,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 118,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 119,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 120,,,,Married,Bachelor,Private Employee,,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 121,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 122,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 123,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 124,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 125,Male,18-24  ,Jakarta surround area,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 126,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 127,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 128,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 129,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 130,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,Sedan,3 hours,350 Km
+Respondent 131,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,300 Km
+Respondent 132,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 133,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,SUV,3 hours,250 Km
+Respondent 134,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 135,Male,25-40  ,Sumatera,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 136,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 137,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 138,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 139,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 140,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 141,Male,above 40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 142,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,Sedan,3 hours,250 Km
+Respondent 143,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 144,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 145,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 146,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 147,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 148,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 149,Male,above 40  ,Jakarta surround area,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,SUV,3 hours,300 Km
+Respondent 150,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 151,Male,25-40  ,West Java,Married,Bachelor,Housewife,200-250 M IDR  ,400-500 M IDR  ,MPV,3 hours,250 Km
+Respondent 152,Male,25-40  ,East Indonesia,Married,Bachelor,Housewife,< 200 M IDR,400-500 M IDR  ,MPV,5 hours,300 Km
+Respondent 153,Male,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,MPV,5 hours,350 Km
+Respondent 154,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,400-500 M IDR  ,MPV,5 hours,350 Km
+Respondent 155,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,300 Km
+Respondent 156,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 157,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 158,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 159,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 160,Male,25-40  ,Center & East Java,Married,Bachelor,Government Employees,200-250 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 161,Male,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 162,Male,25-40  ,West Java,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,MPV,8 hours,350 Km
+Respondent 163,Male,above 40  ,West Java,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 164,Female,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 165,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 166,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 167,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,300 Km
+Respondent 168,Male,25-40  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,SUV,5 hours,350 Km
+Respondent 169,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 170,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 171,Male,25-40  ,Center & East Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 172,Female,above 40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 173,Male,above 40  ,West Java,Married,Bachelor,Private Employee,300-350 M IDR  ,above 500 M IDR  ,MPV,5 hours,300 Km
+Respondent 174,Male,25-40  ,West Java,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 175,Male,25-40  ,East Indonesia,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 176,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 177,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 178,Male,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 179,Male,25-40  ,Jakarta surround area,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 180,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 181,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,MPV,5 hours,250 Km
+Respondent 182,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,Sedan,3 hours,350 Km
+Respondent 183,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 184,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 185,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 186,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 187,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 188,Male,18-24  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 189,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 190,Male,25-40  ,Center & East Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 191,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,Sedan,3 hours,300 Km
+Respondent 192,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,8 hours,350 Km
+Respondent 193,Male,25-40  ,Borneo,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 194,Male,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 195,Male,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 196,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,250 Km
+Respondent 197,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,300 Km
+Respondent 198,Female,above 40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,SUV,5 hours,350 Km
+Respondent 199,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,SUV,5 hours,350 Km
+Respondent 200,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,above 350 M IDR  ,above 500 M IDR  ,SUV,5 hours,350 Km
+Respondent 201,Female,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,200-250 M IDR  ,400-500 M IDR  ,SUV,5 hours,350 Km
+Respondent 202,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,250 Km
+Respondent 203,Female,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,above 350 M IDR  ,400-500 M IDR  ,SUV,3 hours,300 Km
+Respondent 204,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,SUV,5 hours,350 Km
+Respondent 205,Female,above 40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 206,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 207,Male,25-40  ,Jakarta surround area,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,SUV,8 hours,300 Km
+Respondent 208,Male,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 209,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 210,Male,25-40  ,Borneo,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 211,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,200-250 M IDR  ,400-500 M IDR  ,City Car,5 hours,350 Km
+Respondent 212,Female,18-24  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,300 Km
+Respondent 213,Male,25-40  ,Jakarta surround area,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 214,Male,25-40  ,Jakarta surround area,Married,Bachelor,Retired,< 200 M IDR,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 215,Male,25-40  ,Jakarta surround area,Married,Bachelor,Retired,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 216,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 217,Female,18-24  ,Center & East Java,Married,Bachelor,Retired,200-250 M IDR  ,400-500 M IDR  ,City Car,3 hours,250 Km
+Respondent 218,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 219,Male,25-40  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,SUV,8 hours,350 Km
+Respondent 220,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 221,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 222,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 223,Female,25-40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 224,Female,above 40  ,West Java,Married,Bachelor,Housewife,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 225,Male,above 40  ,Jakarta surround area,Married,Bachelor,Housewife,200-250 M IDR  ,400-500 M IDR  ,MPV,5 hours,350 Km
+Respondent 226,Male,25-40  ,Jakarta surround area,Married,Bachelor,Retired,above 350 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 227,Female,above 40  ,Jakarta surround area,Married,Bachelor,Retired,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 228,Male,25-40  ,West Java,Married,Bachelor,Retired,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 229,Male,25-40  ,Center & East Java,Married,Bachelor,Retired,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 230,Male,above 40  ,Center & East Java,Unmarried,High School,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 231,Female,25-40  ,West Java,Unmarried,High School,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 232,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 233,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 234,Female,25-40  ,Center & East Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 235,Female,25-40  ,Center & East Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 236,Male,25-40  ,West Java,Unmarried,Bachelor,Student,250-300 M IDR  ,400-500 M IDR  ,MPV,3 hours,300 Km
+Respondent 237,Female,18-24  ,Center & East Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 238,Male,25-40  ,West Java,Unmarried,Bachelor,Student,200-250 M IDR  ,400-500 M IDR  ,MPV,3 hours,250 Km
+Respondent 239,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 240,Female,25-40  ,West Java,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 241,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 242,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,300 Km
+Respondent 243,Male,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 244,Female,18-24  ,Sumatera,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 245,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,above 350 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 246,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,350 Km
+Respondent 247,Male,above 40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 248,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,300 Km
+Respondent 249,Male,18-24  ,Jakarta surround area,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 250,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,250 Km
+Respondent 251,Female,25-40  ,West Java,Unmarried,High School,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 252,Male,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,8 hours,350 Km
+Respondent 253,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 254,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,300 Km
+Respondent 255,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 256,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,250 Km
+Respondent 257,Female,25-40  ,East Indonesia,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 258,Female,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 259,Male,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 260,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 261,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 262,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 263,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 264,Male,25-40  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 265,Female,above 40  ,Jakarta surround area,Unmarried,Bachelor,Student,300-350 M IDR  ,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 266,Female,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,5 hours,300 Km
+Respondent 267,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 268,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 269,Male,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 270,Female,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 271,Male,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 272,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 273,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,8 hours,350 Km
+Respondent 274,Female,above 40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 275,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 276,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 277,Female,above 40  ,West Java,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,SUV,3 hours,250 Km
+Respondent 278,Male,25-40  ,West Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 279,Female,25-40  ,West Java,Married,Bachelor,Private Employee,300-350 M IDR  ,above 500 M IDR  ,SUV,3 hours,350 Km
+Respondent 280,Male,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 281,Female,25-40  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,5 hours,300 Km
+Respondent 282,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,SUV,8 hours,350 Km
+Respondent 283,Female,25-40  ,Jakarta surround area,Married,Bachelor,Private Employee,300-350 M IDR  ,above 500 M IDR  ,SUV,3 hours,250 Km
+Respondent 284,Female,18-24  ,Center & East Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 285,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,300-350 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 286,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 287,Female,18-24  ,Center & East Java,Married,Bachelor,Private Employee,300-350 M IDR  ,above 500 M IDR  ,MPV,3 hours,300 Km
+Respondent 288,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,8 hours,350 Km
+Respondent 289,Female,25-40  ,West Java,Unmarried,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 290,Female,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 291,Female,18-24  ,West Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 292,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 293,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 294,Female,18-24  ,Center & East Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 295,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 296,Female,18-24  ,East Indonesia,Married,Magister/Doctoral,Teacher/Lecturer,above 350 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 297,Female,18-24  ,East Indonesia,Married,Magister/Doctoral,Teacher/Lecturer,300-350 M IDR  ,300-400 M IDR  ,Sedan,8 hours,350 Km
+Respondent 298,Female,18-24  ,Borneo,Married,Magister/Doctoral,Teacher/Lecturer,250-300 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 299,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,Sedan,3 hours,300 Km
+Respondent 300,Female,18-24  ,Center & East Java,Married,Bachelor,Private Employee,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 301,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 302,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,above 350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 303,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 304,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 305,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 306,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 307,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 308,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 309,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 310,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 311,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 312,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 313,Female,18-24  ,Center & East Java,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 314,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 315,Female,18-24  ,Center & East Java,Married,Bachelor,Private Employee,< 200 M IDR,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 316,Female,18-24  ,East Indonesia,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 317,Female,18-24  ,Borneo,Married,Bachelor,Private Employee,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 318,Female,18-24  ,Sumatera,Married,Bachelor,Private Employee,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 319,Female,18-24  ,Center & East Java,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 320,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 321,Female,18-24  ,Sumatera,Unmarried,Bachelor,Student,250-300 M IDR  ,300-400 M IDR  ,MPV,8 hours,350 Km
+Respondent 322,Female,18-24  ,Borneo,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 323,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,300-350 M IDR  ,400-500 M IDR  ,MPV,3 hours,300 Km
+Respondent 324,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,300-350 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 325,Female,18-24  ,Sumatera,Unmarried,Bachelor,Student,above 350 M IDR  ,400-500 M IDR  ,MPV,3 hours,250 Km
+Respondent 326,Female,18-24  ,Sumatera,Unmarried,High School,Student,300-350 M IDR  ,400-500 M IDR  ,MPV,3 hours,350 Km
+Respondent 327,Female,18-24  ,Sumatera,Unmarried,High School,Student,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 328,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 329,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 330,Female,18-24  ,Sumatera,Unmarried,Bachelor,Student,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 331,Female,18-24  ,Sumatera,Unmarried,Bachelor,Student,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 332,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,300-350 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 333,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 334,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Student,above 350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 335,Female,18-24  ,Borneo,Unmarried,Bachelor,Student,above 350 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 336,Female,18-24  ,West Java,Unmarried,Bachelor,Student,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 337,Female,25-40  ,Borneo,Unmarried,Bachelor,Student,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 338,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 339,Female,18-24  ,East Indonesia,Married,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 340,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 341,Female,18-24  ,Sumatera,Unmarried,Bachelor,Self-employed,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 342,Female,18-24  ,Center & East Java,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 343,Female,18-24  ,East Indonesia,Married,Bachelor,Self-employed,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 344,Female,18-24  ,East Indonesia,Married,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 345,Female,18-24  ,Sumatera,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 346,Female,18-24  ,Borneo,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,Sedan,3 hours,250 Km
+Respondent 347,Female,18-24  ,Borneo,Married,Magister/Doctoral,Teacher/Lecturer,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 348,Female,18-24  ,Sumatera,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 349,Female,18-24  ,East Indonesia,Married,Bachelor,Government Employees,200-250 M IDR  ,300-400 M IDR  ,SUV,3 hours,350 Km
+Respondent 350,Female,18-24  ,East Indonesia,Married,Bachelor,Government Employees,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 351,Female,18-24  ,Sumatera,Married,Bachelor,Government Employees,above 350 M IDR  ,above 500 M IDR  ,MPV,3 hours,350 Km
+Respondent 352,Male,18-24  ,West Java,Married,Bachelor,Government Employees,< 200 M IDR,300-400 M IDR  ,Sedan,3 hours,250 Km
+Respondent 353,Female,18-24  ,Sumatera,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,Sedan,3 hours,300 Km
+Respondent 354,Male,18-24  ,Sumatera,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,Sedan,8 hours,350 Km
+Respondent 355,Female,18-24  ,East Indonesia,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,Sedan,3 hours,350 Km
+Respondent 356,Female,18-24  ,East Indonesia,Married,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,Sedan,5 hours,350 Km
+Respondent 357,Female,18-24  ,Center & East Java,Married,Bachelor,Self-employed,300-350 M IDR  ,above 500 M IDR  ,Sedan,5 hours,350 Km
+Respondent 358,Male,18-24  ,East Indonesia,Married,Bachelor,Self-employed,300-350 M IDR  ,above 500 M IDR  ,Sedan,3 hours,350 Km
+Respondent 359,Female,18-24  ,Sumatera,Married,Bachelor,Self-employed,300-350 M IDR  ,above 500 M IDR  ,Sedan,3 hours,300 Km
+Respondent 360,Female,18-24  ,Sumatera,Married,Bachelor,Others,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 361,Female,18-24  ,East Indonesia,Married,Bachelor,Others,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 362,Female,18-24  ,Center & East Java,Married,Bachelor,Others,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 363,Male,25-40  ,West Java,Married,Bachelor,Others,300-350 M IDR  ,above 500 M IDR  ,City Car,3 hours,350 Km
+Respondent 364,Male,25-40  ,East Indonesia,Unmarried,Bachelor,Others,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 365,Female,25-40  ,Sumatera,Unmarried,Bachelor,Others,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 366,Female,25-40  ,East Indonesia,Unmarried,Bachelor,Others,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 367,Female,25-40  ,East Indonesia,Unmarried,Bachelor,Others,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 368,Female,25-40  ,Center & East Java,Unmarried,Bachelor,Others,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 369,Female,25-40  ,Sumatera,Unmarried,Bachelor,Others,250-300 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 370,Male,25-40  ,Sumatera,Unmarried,Bachelor,Others,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 371,Male,25-40  ,West Java,Unmarried,Bachelor,Others,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 372,Male,25-40  ,East Indonesia,Unmarried,Bachelor,Others,300-350 M IDR  ,above 500 M IDR  ,City Car,5 hours,350 Km
+Respondent 373,Male,25-40  ,Jakarta surround area,Unmarried,High School,Others,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 374,Female,18-24  ,East Indonesia,Unmarried,High School,Self-employed,250-300 M IDR  ,400-500 M IDR  ,SUV,3 hours,350 Km
+Respondent 375,Female,18-24  ,Sumatera,Unmarried,Bachelor,Self-employed,200-250 M IDR  ,400-500 M IDR  ,SUV,3 hours,350 Km
+Respondent 376,Female,18-24  ,East Indonesia,Unmarried,Bachelor,Self-employed,300-350 M IDR  ,400-500 M IDR  ,SUV,3 hours,250 Km
+Respondent 377,Male,25-40  ,West Java,Unmarried,Bachelor,Self-employed,< 200 M IDR,400-500 M IDR  ,SUV,5 hours,300 Km
+Respondent 378,Male,25-40  ,West Java,Unmarried,Bachelor,Self-employed,250-300 M IDR  ,400-500 M IDR  ,SUV,3 hours,350 Km
+Respondent 379,Male,above 40  ,Jakarta surround area,Unmarried,Bachelor,Self-employed,above 350 M IDR  ,400-500 M IDR  ,SUV,3 hours,350 Km
+Respondent 380,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Self-employed,above 350 M IDR  ,400-500 M IDR  ,SUV,5 hours,300 Km
+Respondent 381,Female,25-40  ,Jakarta surround area,Married,Bachelor,Self-employed,300-350 M IDR  ,400-500 M IDR  ,MPV,8 hours,350 Km
+Respondent 382,Male,25-40  ,East Indonesia,Married,Bachelor,Self-employed,200-250 M IDR  ,400-500 M IDR  ,MPV,5 hours,250 Km
+Respondent 383,Male,25-40  ,Borneo,Married,Bachelor,Self-employed,300-350 M IDR  ,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 384,Male,18-24  ,East Indonesia,Married,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 385,Male,above 40  ,Center & East Java,Married,Bachelor,Self-employed,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 386,Male,18-24  ,West Java,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 387,Female,above 40  ,Jakarta surround area,Married,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 388,Female,25-40  ,Jakarta surround area,Married,Bachelor,Self-employed,above 350 M IDR  ,300-400 M IDR  ,MPV,5 hours,250 Km
+Respondent 389,Male,above 40  ,Jakarta surround area,Married,Bachelor,Self-employed,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,300 Km
+Respondent 390,Male,above 40  ,Jakarta surround area,Married,Bachelor,Self-employed,above 350 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 391,Male,18-24  ,Jakarta surround area,Married,Bachelor,Self-employed,above 350 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 392,Female,25-40  ,Borneo,Married,Bachelor,Self-employed,300-350 M IDR  ,300-400 M IDR  ,MPV,5 hours,300 Km
+Respondent 393,Female,25-40  ,Jakarta surround area,Married,Bachelor,Self-employed,< 200 M IDR,300-400 M IDR  ,MPV,5 hours,350 Km
+Respondent 394,Female,18-24  ,Jakarta surround area,Married,Bachelor,Self-employed,200-250 M IDR  ,300-400 M IDR  ,City Car,5 hours,250 Km
+Respondent 395,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,300-350 M IDR  ,300-400 M IDR  ,City Car,5 hours,350 Km
+Respondent 396,Male,above 40  ,West Java,Unmarried,Bachelor,Others,250-300 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 397,Female,18-24  ,Jakarta surround area,Unmarried,Bachelor,Student,300-350 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 398,Male,18-24  ,Jakarta surround area,Unmarried,Bachelor,Student,< 200 M IDR,400-500 M IDR  ,City Car,3 hours,300 Km
+Respondent 399,Male,25-40  ,Jakarta surround area,Unmarried,Bachelor,Others,250-300 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 400,Female,25-40  ,Sumatera,Unmarried,Bachelor,Student,250-300 M IDR  ,400-500 M IDR  ,City Car,3 hours,250 Km
+Respondent 401,Female,25-40  ,Jakarta surround area,Unmarried,Bachelor,Student,200-250 M IDR  ,400-500 M IDR  ,City Car,3 hours,300 Km
+Respondent 402,Male,18-24  ,Jakarta surround area,Unmarried,Magister/Doctoral,Teacher/Lecturer,250-300 M IDR  ,400-500 M IDR  ,MPV,5 hours,350 Km
+Respondent 403,Male,25-40  ,Center & East Java,Married,Magister/Doctoral,Self-employed,200-250 M IDR  ,400-500 M IDR  ,City Car,3 hours,350 Km
+Respondent 404,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,above 350 M IDR  ,400-500 M IDR  ,SUV,3 hours,350 Km
+Respondent 405,Female,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 406,Male,18-24  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,< 200 M IDR,300-400 M IDR  ,City Car,3 hours,250 Km
+Respondent 407,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 408,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Self-employed,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 409,Female,25-40  ,West Java,Married,Magister/Doctoral,Teacher/Lecturer,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 410,Female,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,250-300 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 411,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Self-employed,< 200 M IDR,300-400 M IDR  ,City Car,8 hours,350 Km
+Respondent 412,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,250 Km
+Respondent 413,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Self-employed,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,300 Km
+Respondent 414,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 415,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Self-employed,200-250 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
+Respondent 416,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 417,Male,25-40  ,Jakarta surround area,Married,Magister/Doctoral,Teacher/Lecturer,200-250 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 418,Female,25-40  ,West Java,Married,Magister/Doctoral,Teacher/Lecturer,< 200 M IDR,400-500 M IDR  ,MPV,3 hours,250 Km
+Respondent 419,Female,18-24  ,Jakarta surround area,,Bachelor,Private Employee,< 200 M IDR,400-500 M IDR  ,City Car,3 hours,300 Km
+Respondent 420,Male,18-24  ,Center & East Java,,,,200-250 M IDR  ,,,3 hours,300 Km
+Respondent 421,Male,above 40  ,Center & East Java,,,,300-350 M IDR  ,300-400 M IDR  ,MPV,3 hours,350 Km
+Respondent 422,Male,above 40  ,Center & East Java,,,,300-350 M IDR  ,300-400 M IDR  ,City Car,3 hours,350 Km
